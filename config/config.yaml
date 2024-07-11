@@ -1,0 +1,4 @@
+# config.yaml
+RunMode: debug
+HttpPort: 8080
+# 这里可以添加更多的配置项，如数据库连接信息、日志配置等
